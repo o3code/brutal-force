@@ -1,4 +1,4 @@
 brutal-force
 ============
 
-Gerencia de tarefas.
+Gerência de tarefas.
